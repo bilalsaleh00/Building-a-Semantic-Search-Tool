@@ -1,0 +1,7 @@
+Embeddings convert text into numerical vectors that represent semantic meaning.
+
+Cosine similarity measures the similarity between vector directions.
+
+Semantic search can find relevant documents even when the query uses different words.
+
+Chunking divides long documents into smaller searchable sections. Paragraph-based chunking preserves natural topic boundaries.

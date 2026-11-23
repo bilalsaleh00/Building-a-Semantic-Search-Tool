@@ -1,0 +1,13 @@
+Python variables store values such as strings, integers, and floats.
+
+Python lists store multiple items in an ordered collection. You can add new items using append().
+
+Dictionaries store information using key-value pairs. You can access values using their keys or the get() method.
+
+Functions organize reusable blocks of Python code and can accept parameters and return results.
+
+Try and except blocks handle errors such as ValueError when users enter invalid data.
+
+Python for loops iterate through collections, while while loops continue until a condition changes.
+
+Git tracks changes to project files, and GitHub hosts repositories for sharing code.

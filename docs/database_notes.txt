@@ -1,0 +1,7 @@
+SQL databases organize information into tables, rows, and columns.
+
+SQLAlchemy is a Python ORM that maps Python classes to database tables.
+
+Database migrations allow developers to modify database schemas as applications grow.
+
+ChromaDB stores document embeddings and metadata for semantic similarity search.

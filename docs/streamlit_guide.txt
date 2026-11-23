@@ -1,0 +1,7 @@
+Streamlit is a Python library for building interactive web applications.
+
+Streamlit reruns the Python script when a user interacts with a widget.
+
+Use st.session_state to preserve values between Streamlit reruns.
+
+Streamlit provides layout components such as st.columns, st.sidebar, and st.tabs.
